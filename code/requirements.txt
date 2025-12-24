@@ -1,0 +1,12 @@
+# torch==2.1.0
+
+transformers==4.39.3
+datasets==2.18.0
+accelerate==0.30.0
+pandas==2.3.3
+evaluate==0.4.6
+rank-bm25==0.2.2
+tqdm==4.66.2
+
+# faiss install (if you want to)
+faiss-gpu
